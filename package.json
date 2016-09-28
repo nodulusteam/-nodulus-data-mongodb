@@ -1,6 +1,6 @@
 {
   "name": "@nodulus/data-mongodb",
-  "version": "0.0.13",
+  "version": "0.0.17",
   "description": "",
   "main": "mongodb.js",
   "scripts": {

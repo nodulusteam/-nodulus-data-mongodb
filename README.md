@@ -1,9 +1,8 @@
 # @nodulus/data-mongodb
-
-
-
 nodulus data access layer implemantation using mongodb.
  
+![Alt text](https://travis-ci.org/nodulusteam/-nodulus-data-mongodb.svg?branch=master "build")
+![Alt text](https://david-dm.org/nodulusteam/-nodulus-data-mongodb.svg "dependencies")
 
 this is a plugin component for [nodulus](https://www.npmjs.com/package/nodulus) 
 
